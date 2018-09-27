@@ -1,4 +1,4 @@
-importScripts('/nuxt-onsen-app/_nuxt/workbox.678c6960.js')
+importScripts('/nuxt-onsen-app/_nuxt/workbox.dev.678c6960.js')
 
 
 
