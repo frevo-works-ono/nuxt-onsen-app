@@ -12,12 +12,12 @@ workbox.precaching.precacheAndRoute([
     "revision": "72bb4830210e43996978f53770a47c88"
   },
   {
-    "url": "/nuxt-onsen-app/_nuxt/manifest.1b67a231d8ec1b3bcf1b.js",
-    "revision": "c75a4da0c9f2936b20e176b4ba186699"
+    "url": "/nuxt-onsen-app/_nuxt/manifest.8ab104df4a693faf8538.js",
+    "revision": "8b80c5d43a03cca8b78118fff0e54685"
   },
   {
-    "url": "/nuxt-onsen-app/_nuxt/pages/index.b0dbcf1dc5110e3cd099.js",
-    "revision": "cf8b4f5ccafc30815a16bb3c14e5fc2b"
+    "url": "/nuxt-onsen-app/_nuxt/pages/index.64efe76deba8e7f1dbdc.js",
+    "revision": "925f131e39595688d57bb86d56496d7e"
   },
   {
     "url": "/nuxt-onsen-app/_nuxt/vendor.1777aa0fc406c7778bb1.js",
