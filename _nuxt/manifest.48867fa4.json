@@ -1,0 +1,1 @@
+{"name":"Nuxt.js OnsenUI","short_name":"NuxtOnsen","description":"Nuxt.js project","publicPath":"/nuxt-onsen-app//_nuxt/","icons":[{"src":"/static/logo.png","sizes":"144x144","type":"image/png"}],"start_url":"/nuxt-onsen-app/","display":"standalone","background_color":"#ffffff","theme_color":"#3B8070","lang":"ja","title":"Nuxt.js OnsenUI"}
